@@ -8,7 +8,7 @@
     "npm":"2.15.11"
   },
   "scripts": {
-    "start":"server.js"
+    "start":"node server.js"
   },
   "repository": {
     "type": "git",

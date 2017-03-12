@@ -1,4 +1,3 @@
-
 {
   "name": "timestamp",
   "version": "1.0.0",
@@ -7,16 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  
-   "repository": {
-    "type":"git",
-    "url":"git+https://github.com/shashank2789/timestamp.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashank2789/timestamp.git"
   },
   "author": "shashank2789",
   "license": "ISC",
   "dependencies": {
-    "express": "^3.2.6",
+    "express": "^3.21.2",
     "moment": "2.17.1"
   }
- 
 }
